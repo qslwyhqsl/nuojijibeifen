@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1789840835353,
+  "timestamp": 1789840842836,
   "appVersion": "6.9.80 (2026.09.18)",
   "tables": [
     "characters",
@@ -104,7 +104,7 @@
     "stickers": 13,
     "messages": 12,
     "roleStickers": 5,
-    "imageStore": 11
+    "imageStore": 12
   },
   "completedTables": {
     "characters": true,
