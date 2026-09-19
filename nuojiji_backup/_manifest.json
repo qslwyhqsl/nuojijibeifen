@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1789841154781,
+  "timestamp": 1789841161696,
   "appVersion": "6.9.80 (2026.09.18)",
   "tables": [
     "characters",
@@ -154,7 +154,9 @@
     "customGames": true,
     "customGameSaves": true,
     "customWidgetTemplates": true,
-    "customWidgetState": true
+    "customWidgetState": true,
+    "wallpapers": true,
+    "lifeRpgData": true
   },
   "inProgress": true
 }
