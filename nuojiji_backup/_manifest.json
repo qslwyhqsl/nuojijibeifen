@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1789841306452,
+  "timestamp": 1789841311467,
   "appVersion": "6.9.80 (2026.09.18)",
   "tables": [
     "characters",
@@ -183,7 +183,8 @@
     "naiVibeCache": true,
     "walletTransactions": true,
     "walletData": true,
-    "shopOrders": true
+    "shopOrders": true,
+    "shopData": true
   },
   "inProgress": true
 }
